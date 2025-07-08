@@ -11,7 +11,9 @@
 
 
 
-/* esto es un coment */
+/* esto es un coment */ 
+
+// Esto es un comment mas piola que el de arriba 
 
 
 
